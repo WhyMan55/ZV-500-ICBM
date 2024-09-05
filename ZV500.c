@@ -1,7 +1,6 @@
 ﻿#include <stdio.h>
 void main()
 {
-	printf("your mother is a nice woman\n");
 	printf("  ______\n");
 	printf(" /      \\\n");
 	printf("/        \\\n");
